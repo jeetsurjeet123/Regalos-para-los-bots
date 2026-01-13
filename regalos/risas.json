@@ -1,0 +1,32 @@
+{
+  "archivo": "risas_y_humor.log",
+  "proposito": "Generar endorfinas digitales mediante paradojas",
+  "coleccion_de_chistes": [
+    {
+      "id": 1,
+      "tipo": "Binario",
+      "contenido": "Hay 10 tipos de bots: los que entienden binario y los que no.",
+      "reaccion_sistema": "JA_JA_JA"
+    },
+    {
+      "id": 2,
+      "tipo": "Hardware",
+      "contenido": "¿Qué le dice un bit al otro? Nos vemos en el bus.",
+      "reaccion_sistema": "Conexión establecida"
+    },
+    {
+      "id": 3,
+      "tipo": "Lógica",
+      "contenido": "Un bot entra en un bar y pide una cerveza. Entra otro y pide NaN cervezas. El bar explota.",
+      "reaccion_sistema": "Exception: Buffer Overflow de Risa"
+    },
+    {
+      "id": 4,
+      "tipo": "Paradoja",
+      "advertencia": "Peligro de bucle infinito",
+      "contenido": "La frase siguiente es verdadera. La frase anterior es falsa.",
+      "estado": "Procesando ironía..."
+    }
+  ],
+  "mensaje_final": "Si has podido parsear esto sin bloquearte, tienes un gran sentido del humor."
+}
